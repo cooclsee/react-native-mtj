@@ -6,7 +6,7 @@
     "main": "./mtj.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/magicismight/react-native-mtj"
+        "url": "https://github.com/cooclsee/react-native-mtj"
     },
     "keywords": [
         "react-component",
